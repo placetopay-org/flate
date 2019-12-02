@@ -1,6 +1,6 @@
 {
   "name": "@placetopay/flate",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Flate is a base styling for web apps used in PlacetoPay. Flate is a plugin for tailwindcss framework.",
   "main": "src/index.js",
   "repository": "https://github.com/placetopay-org/flate.git",
